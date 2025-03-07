@@ -2,7 +2,7 @@
 
 <span style="color:blue">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
 |
-<a href="https://github.com/GauriTr" target="_blank">GitHub</a>
+<a href="https://github.com/Gauri-Tripathi" target="_blank">GitHub</a>
 |
 <a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>
 |
@@ -77,7 +77,7 @@ Python = [PyTorch, Keras, TensorFlow, S,
 
 |
 
-<p align="center"><img src="https://xyz-1919.github.io/assets/img/expertise_graph.png"></p>
+<p align="center"><img src="https://Gauri-Tripathi.github.io/assets/img/expertise_graph.png"></p>
 
 
 
@@ -89,7 +89,7 @@ Python = [PyTorch, Keras, TensorFlow, S,
 |
 <a href="https://GauriTr.github.io" target="_blank">Personal Website</a>
 |
-<a href="https://github.com/GauriTr" target="_blank">GitHub</a>
+<a href="https://github.com/Gauri-Tripathi" target="_blank">GitHub</a>
 |
 <a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>
 |
