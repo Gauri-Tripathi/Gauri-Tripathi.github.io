@@ -84,7 +84,7 @@ print("Ready to tackle AI challenges with a focus on new innovation!")
 
 |
 
-<p align="center"><img src="https://Gauri-Tripathi.github.io/assets/icons/expertise_graph.png"></p>
+<p align="center"><img src="\assets\icons\expertise_graph.png"></p>
 
 
 

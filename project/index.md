@@ -1,12 +1,12 @@
 # <span style="color:blue">Completed Projects</span>
 
-These are only some of my favorite projects; many, many more can be found in my GitHub Repositories.
+These are only some of my favorite projects;  many more can be found in my GitHub Repositories.
 
 <!--- Multi-Modal AI Music Assistant project --->
 
 <!-- title -->
 
-### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image]
 
 <!-- body text -->
 
@@ -29,7 +29,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- body text -->
 
-&nbsp; &nbsp; _Natural Language Processing, LLM Fine-tuning_ `2023`
+&nbsp; &nbsp; _Natural Language Processing, LLM Fine-tuning_ `2024`
 : > A fine-tuned language model based on Meta's Llama-3.1-8B-Instruct that generates natural, human-like responses in conversations. The model excels at generating contextually appropriate replies with sarcasm, humor, and casual tones. Trained using AdaLoRA (Adaptive Low-Rank Adaptation) for parameter efficiency and improved generalization, it can process both single-turn exchanges and multi-turn conversations up to 7 turns of context. Available in both full model and quantized GGUF formats for efficient deployment.
 
 <!-- image -->
@@ -44,11 +44,11 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- title -->
 
-### <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" title="GitHub Repository" target="_blank">Swiggy Food Delivery Analysis & Prediction</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" title="GitHub Repository" target="_blank">Swiggy Food Delivery Analysis & Prediction</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; 
 
 <!-- body text -->
 
-&nbsp; &nbsp; _Data Science, Predictive Analytics_ `2022`
+&nbsp; &nbsp; _Data Science, Predictive Analytics_ `2024`
 : > A comprehensive analysis of Swiggy food delivery data with predictive modeling to forecast delivery times, customer satisfaction, and order patterns. The project combines exploratory data analysis with machine learning techniques to identify key factors affecting delivery performance and customer experience, providing actionable insights for optimization.
 
 <!-- image -->
