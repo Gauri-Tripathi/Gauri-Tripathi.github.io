@@ -52,27 +52,31 @@ Currently seeking internship and full-time roles in data science, AI, and machin
 ## **Programming skills**
 
 ```python
-Python = [PyTorch, Keras, TensorFlow, S,
-          Python, Java, R,PostgreSQL, CassandraDB, MySQL]
-### Frameworks & Libraries
-- TensorFlow, PyTorch, Keras
-- Scikit-learn, LangChain
-- Hugging Face, FastAPI
-### Cloud & DevOps
-- AWS (SageMaker, RDS, EC2, Lambda)
-- Google Cloud
-- Docker
-- CI/CD Pipelines
+# Frameworks & Libraries - My Pro-Level DS & MLE Toolkit
+languages_databases = {
+    "Languages": ["Python", "Java", "R", "SQL", "Bash"],
+    "Databases": ["PostgreSQL",  "MySQL", "SQLite"]
+}
+frameworks_libraries = {
+    "Machine_Learning": [
+        "TensorFlow", "PyTorch", "Keras", "Scikit-learn",  # Core ML stuff
+    ],
 
-### Specializations
-- Natural Language Processing (NLP)
-- Computer Vision
-- Generative AI
-- Statistical Analysis
-- Machine Learning
-- Deep Learning
+}
+specializations = [
+    "Natural Language Processing (NLP)",
+    "Large Language Model (LLM) Development",  # Highlighting your chatbot work
+    "Statistical Analysis",
+    "Machine Learning",
+    "Deep Learning",
+]
 
- std::string others[8] = {Linux (Ubuntu),Git,Apache Kafka,Airflow,RESTful APIs,Microservices};
+# Additional Tools - Current and relevant
+others = [
+    "Linux (Ubuntu, Red Hat)", "Airflow", "RESTful APIs", 
+]
+
+print("Ready to tackle AI challenges with a focus on new innovation!")
 ```
 
 
@@ -80,7 +84,7 @@ Python = [PyTorch, Keras, TensorFlow, S,
 
 |
 
-<p align="center"><img src="https://Gauri-Tripathi.github.io/assets/img/expertise_graph.png"></p>
+<p align="center"><img src="https://Gauri-Tripathi.github.io/assets/icons/expertise_graph.png"></p>
 
 
 
@@ -90,7 +94,7 @@ Python = [PyTorch, Keras, TensorFlow, S,
 
 <span style="color:blue">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
 |
-<a href="https://GauriTr.github.io" target="_blank">Personal Website</a>
+<a href="https://Gauri-Tripathi.github.io" target="_blank">Personal Website</a>
 |
 <a href="https://github.com/Gauri-Tripathi" target="_blank">GitHub</a>
 |
