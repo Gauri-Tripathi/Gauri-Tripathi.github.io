@@ -8,26 +8,25 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Machine Learning enthusiast with strong foundation in Data Science 
-    and software development. Passionate about solving complex problems 
-    using data-driven approaches.
+    I am a Machine Learning Engineer and Data Scientist fueled by a passion for advancing AI research and delivering real-world impact. 
+      With over a year of hands-on experience, I specialize in crafting scalable, AI-driven solutions that enhance decision-making, 
+      streamline complex processes, and create meaningful user experiences. My expertise spans end-to-end model development, 
+      from designing high-performance systems to deploying innovative applications like multimodal recommendation engines and fine-tuned conversational AI.
 
-    |
+      |
+       
+      Beyond AI, I bring a robust foundation in data science, excelling in statistical modeling, predictive analytics,
+      and advanced techniques such as feature engineering, geospatial analysis, and ensemble learning. 
+      I thrive on transforming complex datasets into actionable insights, bridging the gap between cutting-edge research and practical outcomes. 
+      My goal is to develop AI systems that are not only innovative but also practical, efficient, and adaptable to evolving challenges.
+      
+      |
+      
+      <p align="center"> 
+      <img src="/assets/img/about.gif">
+      </p>
 
-    |
 
-
-    <p align="center"> 
-    <img src="/assets/img/dog.png">
-    </p>
-
-  # This photo will be used in the about section
-  picture:
-    path:            /assets/icons/me2.png
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/icons/me2.png
-      2x:            /assets/icons/me2.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

@@ -11,7 +11,7 @@
 ## **Summary**
 ### Data Scientist and ML Engineer
 
-I am a Data Scientist, ML Engineer, and Software Developer with a strong background in machine learning, AI, and software development. I specialize in building scalable models, optimizing algorithms, and delivering AI-driven solutions. My experience includes an impactful internship at a leading fintech company, where I contributed to developing data-driven strategies and optimizing models for real-world applications.
+I am a Data Scientist and ML Engineer with a strong background in machine learning and AI. I specialize in building scalable models, optimizing algorithms, and delivering AI-driven solutions. My experience includes an impactful internship at a leading fintech company, where I contributed to developing data-driven strategies and optimizing models for real-world applications.
 
 Currently seeking internship and full-time roles in data science, AI, and machine learning to leverage my skills in impactful projects.
 
@@ -20,6 +20,9 @@ Currently seeking internship and full-time roles in data science, AI, and machin
 
 `June 2024 - Sept 2024` **Data Science Intern**
 &nbsp; &nbsp; &nbsp; _Mobicule Technologies Pvt. Ltd._
+: > Collaborated with senior data scientists to design predictive models for analyzing transaction data from fintech apps, enhancing fraud detection accuracy by 20%.
+: > Conducted deep exploratory data analysis on user data, uncovering trends that informed strategic product roadmaps and increased app engagement.
+: > Optimized A/B testing frameworks by preparing and cleaning experimental datasets, resulting in statistically robust insights that improved feature conversion rates.
 
 `Feb 2024 - April 2024` **Freelance AI Engineer**
 : > Designed and deployed a Retrieval-Augmented Generation (RAG) chatbot for an event management company's website
