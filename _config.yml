@@ -1,5 +1,4 @@
-
-url:                   https://https://Gauri-Tripathi.github.io.
+url:                   https://Gauri-Tripathi.github.io.
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -38,6 +37,8 @@ author:
 menu:
   - title:             Projects
     url:               /project/
+  - title:             Blogs
+    url:               /blogs/
   - title:             Resume
     url:               /about/
 # Add links to the footer.

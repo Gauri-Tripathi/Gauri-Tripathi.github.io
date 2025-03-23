@@ -85,7 +85,7 @@ Python = [PyTorch, Keras, TensorFlow, S,
 
 # **Contact Links**
 
-<span style="color:blue">**<a href="mailto:gauritr19.com">gauritr19@gmail.com</a>
+<span style="color:blue">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
 |
 <a href="https://GauriTr.github.io" target="_blank">Personal Website</a>
 |
