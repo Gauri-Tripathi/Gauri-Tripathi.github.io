@@ -15,11 +15,11 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- image -->
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/mma-interface.png"></p>
+<p align="center"><img src=""></p>
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://multi-modal-ma.onrender.com" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Multi-Modal-Music-Assistant" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://multi-modal-ma.onrender.com" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Multi_Modal_MA_" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Llama-3.1-8B-Sarcasm project --->
 
@@ -34,11 +34,11 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- image -->
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/llama-sarcasm-example.png"></p>
+<p align="center"><img src=""></p>
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Llama-Sarcasm" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Food Delivery Prediction project --->
 
@@ -53,7 +53,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- image -->
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/swiggy-analysis.png"></p>
+<p align="center"><img src=""></p>
 
 <!-- buttons -->
 
