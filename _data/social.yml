@@ -210,3 +210,7 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+medium:
+  name: Medium
+  icon: icon-medium
+  prepend: "https://medium.com/@"
