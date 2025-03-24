@@ -6,7 +6,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- title -->
 
-### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image]
+### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; !
 
 <!-- body text -->
 
@@ -19,7 +19,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://multi-modal-ma.onrender.com" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Multi_Modal_MA_" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://multi-modal-ma.onrender.com" target="_blank"><img src="b.web_app.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Multi_Modal_MA_" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Llama-3.1-8B-Sarcasm project --->
 
@@ -38,17 +38,17 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.hf.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Food Delivery Prediction project --->
 
 <!-- title -->
 
-### <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" title="GitHub Repository" target="_blank">Swiggy Food Delivery Analysis & Prediction</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; 
+### <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" title="GitHub Repository" target="_blank">Swiggy Food Delivery Analysis & Prediction</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; 
 
 <!-- body text -->
 
-&nbsp; &nbsp; _Data Science, Predictive Analytics_ `2024`
+&nbsp; &nbsp; _Data Science, Predictive Analytics_ `2023`
 : > A comprehensive analysis of Swiggy food delivery data with predictive modeling to forecast delivery times, customer satisfaction, and order patterns. The project combines exploratory data analysis with machine learning techniques to identify key factors affecting delivery performance and customer experience, providing actionable insights for optimization.
 
 <!-- image -->
@@ -67,7 +67,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- body text -->
 
-&nbsp; &nbsp; _Deep Learning, NLP, Transformers_ `2022`
+&nbsp; &nbsp; _Deep Learning, NLP, Transformers_ `2024`
 : > A complete implementation of transformer architecture from scratch using NumPy/CuPy for English to Hindi translation. The project features a full encoder-decoder architecture with RoPE (Rotary Position Embedding), multiple optimizer options (SGD, Momentum, RMSProp, Adam, Nadam) with Noam scheduler, and multi-head attention mechanisms with visualization support. The implementation includes batched processing with masking, checkpoint saving, and comprehensive performance metrics tracking.
 
 <!-- image -->
@@ -82,16 +82,16 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- title -->
 
-### <a href="https://github.com/Gauri-Tripathi/Portfolio-Generator-Agent" title="GitHub Repository" target="_blank">Multi-Agent Portfolio Generator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/Gauri-Tripathi/Portfolio-Generator-Agent" title="GitHub Repository" target="_blank">Multi-Agent Portfolio Generator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png);![image](/assets/icons/crew_ai_logo.png)
 
 <!-- body text -->
 
-&nbsp; &nbsp; _AI Agents, LLM Applications_ `2023`
+&nbsp; &nbsp; _AI Agents, LLM Applications_ `2025`
 : > An advanced multi-agent system that transforms user documents into a fully functional portfolio website. The system utilizes specialized agents working in coordination to analyze user documents, extract key information, design an appropriate portfolio structure, generate clean and functional code, and provide clear implementation instructions. This agentic approach enables completely automated portfolio creation tailored to the user's experience and achievements.
 
 <!-- image -->
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/portfolio-generator.png"></p>
+<p align="center"></p>
 
 <!-- buttons -->
 
