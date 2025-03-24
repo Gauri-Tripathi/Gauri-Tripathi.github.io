@@ -11,7 +11,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 <!-- body text -->
 
 &nbsp; &nbsp; _AI, Machine Learning, Recommendation Systems_ `2023`
-: > A sophisticated AI-powered music recommendation system that leverages facial emotion detection, contextual awareness, and advanced music analysis to deliver personalized music experiences. The system analyzes user emotions from facial images, incorporates contextual factors (weather, time, location), and utilizes advanced similarity metrics with Matern kernel for music matching. It integrates with Spotify for seamless playback and continuously learns from user feedback to improve recommendations over time.
+: > A personalized music recommendation system powered by AI that combines facial emotion detection, contextual awareness, and music analysis. The system detects user emotions from facial images, considers environmental factors (weather, time, location), and uses advanced Matern kernel similarity metrics for music matching. It connects with Spotify for seamless playback and adapts recommendations based on user feedback.
 
 <!-- image -->
 
@@ -53,11 +53,11 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- image -->
 
-<p align="center"><img src=""></p>
+<p align="center"><iframe src="delivery_visualization.html" width="100%" height="500px" frameborder="0"></iframe></p>
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="delivery_visualization.html" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Transformers from Scratch project --->
 
