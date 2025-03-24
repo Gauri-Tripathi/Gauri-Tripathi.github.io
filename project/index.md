@@ -6,7 +6,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- title -->
 
-### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; !
+### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; 
 
 <!-- body text -->
 
@@ -72,7 +72,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- image -->
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/transformer-attention.png"></p>
+<p align="center"></p>
 
 <!-- buttons -->
 
@@ -82,7 +82,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- title -->
 
-### <a href="https://github.com/Gauri-Tripathi/Portfolio-Generator-Agent" title="GitHub Repository" target="_blank">Multi-Agent Portfolio Generator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png);![image](/assets/icons/crew_ai_logo.png)
+### <a href="https://github.com/Gauri-Tripathi/Portfolio-Generator-Agent" title="GitHub Repository" target="_blank">Multi-Agent Portfolio Generator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) ![image](/assets/icons/crew_ai_logo.png)
 
 <!-- body text -->
 
