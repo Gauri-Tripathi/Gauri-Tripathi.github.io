@@ -38,7 +38,7 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="hf.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.hf.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Food Delivery Prediction project --->
 
