@@ -24,7 +24,7 @@ Currently seeking internship and full-time roles in data science, AI, and machin
 : > Conducted deep exploratory data analysis on user data, uncovering trends that informed strategic product roadmaps and increased app engagement.
 : > Optimized A/B testing frameworks by preparing and cleaning experimental datasets, resulting in statistically robust insights that improved feature conversion rates.
 
-`Feb 2024 - April 2024` **Freelance AI Engineer**
+`Dec 2023 - Present` **Freelance ML Engineer**
 : > Designed and deployed a Retrieval-Augmented Generation (RAG) chatbot for an event management company's website
 : > Integrated vector search with large language models for real-time event information
 : > Streamlined customer inquiries using Python, Langchain and NLP techniques
