@@ -52,26 +52,26 @@ Currently seeking internship and full-time roles in data science, AI, and machin
 ## **Programming skills**
 
 ```python
-# Frameworks & Libraries - My Pro-Level DS & MLE Toolkit
+
 languages_databases = {
     "Languages": ["Python", "Java", "R", "SQL", "Bash"],
     "Databases": ["PostgreSQL",  "MySQL", "SQLite"]
 }
 frameworks_libraries = {
     "Machine_Learning": [
-        "TensorFlow", "PyTorch", "Keras", "Scikit-learn",  # Core ML stuff
+        "TensorFlow", "PyTorch", "Keras", "Scikit-learn",  
     ],
 
 }
 specializations = [
     "Natural Language Processing (NLP)",
-    "Large Language Model (LLM) Development",  # Highlighting your chatbot work
+    "Large Language Model (LLM) Development",  
     "Statistical Analysis",
     "Machine Learning",
     "Deep Learning",
 ]
 
-# Additional Tools - Current and relevant
+
 others = [
     "Linux (Ubuntu, Red Hat)", "Airflow", "RESTful APIs", 
 ]
