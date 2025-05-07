@@ -94,8 +94,6 @@ print("Ready to tackle AI challenges with a focus on new innovation!")
 
 <span style="color:blue">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
 |
-<a href="https://Gauri-Tripathi.github.io" target="_blank">Personal Website</a>
-|
 <a href="https://github.com/Gauri-Tripathi" target="_blank">GitHub</a>
 |
 <a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>
