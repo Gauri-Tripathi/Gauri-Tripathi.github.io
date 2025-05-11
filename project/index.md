@@ -45,7 +45,7 @@ These are only some of my favorite projects;
 
 <!-- title -->
 
-### <a href="https://github.com/Gauri-Tripathi/Transformers-From-Scratch" title="GitHub Repository" target="_blank">NumPy Transformers: English-Hindi Translation</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/Gauri-Tripathi/Transformers-English-Hindi" title="GitHub Repository" target="_blank">Transformers: English-Hindi Translation</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -58,7 +58,7 @@ These are only some of my favorite projects;
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Transformers-From-Scratch" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Transformers-English-Hindi" target="_blank"><img src="b.github.png" /></a>
 
 
 
