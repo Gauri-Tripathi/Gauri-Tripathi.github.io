@@ -1,7 +1,6 @@
 # <span style="color:blue">Completed Projects</span>
 
-These are only some of my favorite projects;  many more can be found in my GitHub Repositories.
-
+These are only some of my favorite projects;
 <!--- Multi-Modal AI Music Assistant project --->
 
 <!-- title -->
@@ -40,6 +39,29 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.hf.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
 
+ 
+
+<!--- Transformers from Scratch project --->
+
+<!-- title -->
+
+### <a href="https://github.com/Gauri-Tripathi/Transformers-From-Scratch" title="GitHub Repository" target="_blank">NumPy Transformers: English-Hindi Translation</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+
+<!-- body text -->
+
+&nbsp; &nbsp; _Deep Learning, NLP, Transformers_ `2024`
+: > A complete implementation of transformer architecture from scratch for English to Hindi translation. The project features a full encoder-decoder architecture with RoPE (Rotary Position Embedding), multiple optimizer options (SGD, Momentum, RMSProp, Adam, Nadam) with Noam scheduler, and multi-head attention mechanisms with visualization support. The implementation includes batched processing with masking, checkpoint saving, and comprehensive performance metrics tracking.
+
+<!-- image -->
+
+<p align="center"></p>
+
+<!-- buttons -->
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Transformers-From-Scratch" target="_blank"><img src="b.github.png" /></a>
+
+
+
 <!--- Food Delivery Prediction project --->
 
 <!-- title -->
@@ -57,37 +79,18 @@ These are only some of my favorite projects;  many more can be found in my GitHu
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="delivery_visualization.html" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Food-Delivery-Analysis" target="_blank"><img src="b.github.png" /></a>
-
-<!--- Transformers from Scratch project --->
-
-<!-- title -->
-
-### <a href="https://github.com/Gauri-Tripathi/Transformers-From-Scratch" title="GitHub Repository" target="_blank">NumPy Transformers: English-Hindi Translation</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
-
-<!-- body text -->
-
-&nbsp; &nbsp; _Deep Learning, NLP, Transformers_ `2024`
-: > A complete implementation of transformer architecture from scratch using NumPy/CuPy for English to Hindi translation. The project features a full encoder-decoder architecture with RoPE (Rotary Position Embedding), multiple optimizer options (SGD, Momentum, RMSProp, Adam, Nadam) with Noam scheduler, and multi-head attention mechanisms with visualization support. The implementation includes batched processing with masking, checkpoint saving, and comprehensive performance metrics tracking.
-
-<!-- image -->
-
-<p align="center"></p>
-
-<!-- buttons -->
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Transformers-From-Scratch" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="delivery_visualization.html" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp;
 
 <!--- Multi-Agent System project --->
 
 <!-- title -->
 
-### <a href="https://github.com/Gauri-Tripathi/Portfolio-Generator-Agent" title="GitHub Repository" target="_blank">Multi-Agent Portfolio Generator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) ![image](/assets/icons/crew_ai_logo.png)
+### <a href="https://github.com/Gauri-Tripathi/Portfolio-Generator-Agent" title="GitHub Repository" target="_blank">Multi-Agent Automated Research Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) ![image](/assets/icons/crew_ai_logo.png)
 
 <!-- body text -->
 
 &nbsp; &nbsp; _AI Agents, LLM Applications_ `2025`
-: > An advanced multi-agent system that transforms user documents into a fully functional portfolio website. The system utilizes specialized agents working in coordination to analyze user documents, extract key information, design an appropriate portfolio structure, generate clean and functional code, and provide clear implementation instructions. This agentic approach enables completely automated portfolio creation tailored to the user's experience and achievements.
+: > A multi-agent system that automates the creation of structured literature reviews. It uses specialized agents for query analysis, document retrieval (via RAG), summarization, synthesis, and fact validation. The system integrates tools like LangChain, CrewAI, and ChromaDB to generate accurate, well-organized reports with citations, saving researchers significant time.
 
 <!-- image -->
 
