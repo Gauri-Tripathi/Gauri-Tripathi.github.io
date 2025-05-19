@@ -8,19 +8,13 @@
 |
 <a href="https://x.com/Gauri_the_great" target="_blank">X</a>**</span>
 
-## **Summary**
-### Data Scientist and ML Engineer
-
-I am a Data Scientist and ML Engineer with a strong background in machine learning and AI. I specialize in building scalable models, fine tuning models ,optimizing algorithms, and delivering AI-driven solutions. My experience includes an impactful internship at a leading fintech company, where I contributed to developing data-driven strategies and optimizing models for real-world applications.
-
-Currently  full-time roles in data science, AI, and machine learning to leverage my skills in impactful projects.
-
 
 ## **Experience**
 
 `June 2024 - Sept 2024` **Data Science Intern**
 &nbsp; &nbsp; &nbsp; _Mobicule Technologies Pvt. Ltd._
 : > Collaborated with senior data scientists to imporove predictive models for analyzing transaction data from fintech apps, enhancing fraud detection accuracy.
+: > Optimized A/B testing frameworks by preparing and cleaning experimental datasets, resulting in statistically robust insights that improved feature conversion rates.
 
 
 `Dec 2023 - Present` **Freelance ML Engineer**
@@ -53,7 +47,7 @@ Currently  full-time roles in data science, AI, and machine learning to leverage
 ```python
 
 languages_databases = {
-    "Languages": ["Python", "Java", "R", "SQL", "Bash"],
+    "Languages": ["Python", "SQL", "Bash"],
     "Databases": ["PostgreSQL",  "MySQL", "SQLite"]
 }
 frameworks_libraries = {
