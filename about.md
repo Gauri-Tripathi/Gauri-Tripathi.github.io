@@ -11,7 +11,7 @@
 
 ## **Experience**
 
-`June 2024 - Sept 2024` **Data Science Intern**
+`June 2024 - Sept 2024` **Machine Learning Intern**
 &nbsp; &nbsp; &nbsp; _Mobicule Technologies Pvt. Ltd._
 : > Collaborated with senior data scientists to imporove predictive models for analyzing transaction data from fintech apps, enhancing fraud detection accuracy.
 : > Optimized A/B testing frameworks by preparing and cleaning experimental datasets, resulting in statistically robust insights that improved feature conversion rates.

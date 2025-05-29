@@ -1,24 +1,7 @@
 # <span style="color:blue">Completed Projects</span>
 
 These are only some of my favorite projects;
-<!--- Multi-Modal AI Music Assistant project --->
 
-<!-- title -->
-
-### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; 
-
-<!-- body text -->
-
-&nbsp; &nbsp; _AI, Machine Learning, Recommendation Systems_ `2023`
-: > A personalized music recommendation system powered by AI that combines facial emotion detection, contextual awareness, and music analysis. The system detects user emotions from facial images, considers environmental factors (weather, time, location), and uses advanced Matern kernel similarity metrics for music matching. It connects with Spotify for seamless playback and adapts recommendations based on user feedback.
-
-<!-- image -->
-
-<p align="center"><img src=""></p>
-
-<!-- buttons -->
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://multi-modal-ma.onrender.com" target="_blank"><img src="b.web_app.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Multi_Modal_MA_" target="_blank"><img src="b.github.png" /></a>
 
 <!--- Llama-3.1-8B-Sarcasm project --->
 
@@ -40,6 +23,29 @@ These are only some of my favorite projects;
 <!-- buttons -->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://huggingface.co/Gauri-tr/llama-3.1-8b-sarcasm" target="_blank"><img src="b.hf.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Conversation-Helper" target="_blank"><img src="b.github.png" /></a>
+
+
+
+<!--- Multi-Modal AI Music Assistant project --->
+
+<!-- title -->
+
+### <a href="https://multi-modal-ma.onrender.com" title="Live Demo" target="_blank">Multi-Modal AI Music Assistant</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; 
+
+<!-- body text -->
+
+&nbsp; &nbsp; _AI, Machine Learning, Recommendation Systems_ `2023`
+: > A personalized music recommendation system powered by AI that combines facial emotion detection, contextual awareness, and music analysis. The system detects user emotions from facial images, considers environmental factors (weather, time, location), and uses advanced Matern kernel similarity metrics for music matching. It connects with Spotify for seamless playback and adapts recommendations based on user feedback.
+
+<!-- image -->
+
+<p align="center"><img src=""></p>
+
+<!-- buttons -->
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://multi-modal-ma.onrender.com" target="_blank"><img src="b.web_app.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Gauri-Tripathi/Multi_Modal_MA_" target="_blank"><img src="b.github.png" /></a>
+
+
 
  
 

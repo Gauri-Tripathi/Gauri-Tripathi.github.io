@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a Machine Learning Engineer and Data Scientist woth a passion for advancing AI research and delivering real-world impact. 
+    I am a Machine Learning Engineer with a passion for advancing AI research and delivering real-world impact. 
       With over a year of hands-on experience, I specialize in crafting scalable, AI-driven solutions that enhance decision-making, 
       streamline complex processes, and create meaningful user experiences. My expertise spans end-to-end model development, 
       from designing high-performance systems to deploying innovative applications like multimodal recommendation engines and fine-tuned conversational AI.
